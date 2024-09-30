@@ -28,10 +28,10 @@ Part 2:
 The development of the multi-output classification model and recommendation system will be implemented in Part 2, utilizing various architectures to enhance predictive capabilities and suggest artworks to users effectively.
 
 Authors:
-Papadimitriou Anna, Registration number: f2822311
-Ralli Eleni, Registration number: f2822312
-Lakkas-Pyknis Evangelos, Registration number: f2822306
-Mesolora Stamatoula Gerasimoula, Registration number: f2822308
+* Papadimitriou Anna, Registration number: f2822311
+* Ralli Eleni, Registration number: f2822312
+* Lakkas-Pyknis Evangelos, Registration number: f2822306
+* Mesolora Stamatoula Gerasimoula, Registration number: f2822308
 
 Course Information:
 MSc Business Analytics, Athens University of Economics and Business
